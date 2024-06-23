@@ -1,0 +1,312 @@
+{
+    "NVD": [
+        "chen2020machine",
+        "jeon2021autovas",
+        "liu2020cd",
+        "wang2020combining",
+        "liu2019deepbalance",
+        "le2021deepcva",
+        "kronjee2018discovering",
+        "hin2022linevd",
+        "zou2019mu",
+        "cao2022mvd",
+        "li2021sysevr",
+        "filus2020random",
+        "li2021vuldeelocator",
+        "li2018vuldeepecker",
+        "zheng2021vulspg",
+        "xu2022detecting",
+        "fan2023vdotr",
+        "pan2023fine",
+        "dong2023dekedver",
+        "zheng2021vu1spg",
+        "xiao2024msgvul",
+        "wang2023lcvd",
+        "cao2021bgnn4vd",
+        "zhang2023cpvd",
+        "hariharan2022proximal",
+        "tang2022sevuldet",
+        "kong2024multi",
+        "sun2024vdtriplet",
+        "wu2022vulcnn",
+        "dong2023sedsvd",
+        "du2024vulnerability",
+        "xiao2024vulnerability"
+    ],
+    "N.A": [
+        "zhou2017automated",
+        "shippey2019automatically",
+        "yamaguchi2013chucky",
+        "phan2017convolutional",
+        "pradel2018deepbugs",
+        "hoang2019deepjit",
+        "zhou2019devign",
+        "pascarella2019fine",
+        "dinella2020hoppity",
+        "huang2021hunting",
+        "3360588",
+        "riom2021revisiting",
+        "yamaguchi2011vulnerability",
+        "zhuang2022just",
+        "ni2022best",
+        "sendner2023smarter",
+        "nguyen2024deep",
+        "sun2021vdsimilar",
+        "gu2023binaiv",
+        "allamanis2021self",
+        "jain2023multi",
+        "wu2024ultravcs",
+        "wang2023deepvd",
+        "you2023smartdt",
+        "yuan2023enhancing",
+        "ashizawa2021eth2vec",
+        "cai2024fine",
+        "ren2023smart",
+        "zhen2024gnn",
+        "zhang2023svscanner",
+        "wang2024graph",
+        "nguyen2024code",
+        "li2023cross",
+        "liu2024detect",
+        "zhang2024vulnerability",
+        "yuan2023optimizing",
+        "wartschinski2022vudenc",
+        "liu2022cpgbert",
+        "li2019improving"
+    ],
+    "F-Droid": [
+        "dam2018automatic",
+        "scandariato2014predicting"
+    ],
+    "Android IOS": [
+        "dam2018automatic",
+        "scandariato2014predicting"
+    ],
+    "PROMISE": [
+        "wang2016automatically",
+        "zeng2021gcn2defect",
+        "li2017software"
+    ],
+    "SARD": [
+        "jeon2021autovas",
+        "tian2020bvdetector",
+        "liu2020cd",
+        "wang2020combining",
+        "cheng2021deepwukong",
+        "zou2019mu",
+        "cao2022mvd",
+        "lin2019software",
+        "li2021sysevr",
+        "filus2020random",
+        "li2021vuldeelocator",
+        "li2018vuldeepecker",
+        "duan2019vulsniper",
+        "zheng2021vulspg",
+        "yang2022source",
+        "wu2023slicedlocator",
+        "fan2023vdotr",
+        "wan2023software",
+        "tian2024enhancing",
+        "zheng2021vu1spg",
+        "guo2022hyvuldect",
+        "xiao2024msgvul",
+        "wang2023lcvd",
+        "wang2023binvuldet",
+        "cheng2019static",
+        "cai2023software",
+        "hariharan2022proximal",
+        "tang2022sevuldet",
+        "kong2024multi",
+        "wu2022vulcnn",
+        "dong2023sedsvd",
+        "xiao2024vulnerability",
+        "tao2023vulnerability"
+    ],
+    "CWE119": [
+        "liu2020cd"
+    ],
+    "CWE399": [
+        "liu2020cd"
+    ],
+    "SAP": [
+        "wang2020combining"
+    ],
+    "ZvD": [
+        "wang2020combining"
+    ],
+    "ESC": [
+        "liu2021combining",
+        "zhuang2020smart",
+        "liu2021smart",
+        "yu2023pscvfinder",
+        "li2023smart"
+    ],
+    "VSC": [
+        "liu2021combining",
+        "zhuang2020smart",
+        "liu2021smart",
+        "li2023smart"
+    ],
+    "NDSS": [
+        "nguyen2020deep",
+        "le2018maximal",
+        "li2023vulanalyzer"
+    ],
+    "VulasDB": [
+        "le2021deepcva"
+    ],
+    "SAMATE": [
+        "kronjee2018discovering"
+    ],
+    "Juliet Test Suit": [
+        "3172102",
+        "yan2021han",
+        "ding2022velvet",
+        "li2023vulanalyzer",
+        "wang2023binvuldet"
+    ],
+    "ICLR2019": [
+        "yan2021han"
+    ],
+    "SySeVR": [
+        "3429444",
+        "chen2024hybrid"
+    ],
+    "VulDeePecker": [
+        "3429444",
+        "tian2024enhancing",
+        "chen2023bitcn_drsn",
+        "chen2024hybrid"
+    ],
+    "Big-Vul": [
+        "fu2022linevul",
+        "zou2022mvulpreter",
+        "steenhoek2024dataflow",
+        "nguyen2024context",
+        "lu2024grace",
+        "ni2023function",
+        "li2023commit",
+        "du2024vulnerability"
+    ],
+    "OWASP benchmark suit": [
+        "ghaffarian2021neural"
+    ],
+    "Smartbugs Wild": [
+        "wu2021peculiar",
+        "zhang2022reentrancy",
+        "nguyen2022mando",
+        "nguyen2022mando2",
+        "liu2023vulnerable",
+        "chen2023smart",
+        "zhu2023grabit",
+        "huang2024effective",
+        "sun2023assbert",
+        "yu2023pscvfinder",
+        "nguyen2023mando",
+        "cai2023combine"
+    ],
+    "MFSA": [
+        "Vuldiggerpaper"
+    ],
+    "Firefox": [
+        "Vuldiggerpaper"
+    ],
+    "Fan et al": [
+        "li2021vulnerability",
+        "cheng2022path",
+        "wen2023meta",
+        "wen2023vulnerability"
+    ],
+    "Reveal": [
+        "li2021vulnerability",
+        "tian2024enhancing",
+        "wen2023meta",
+        "wen2023vulnerability",
+        "lu2024grace",
+        "zhang2023cpvd"
+    ],
+    "D2A": [
+        "cheng2022path",
+        "ding2022velvet",
+        "song2023hgivul",
+        "tian2024enhancing",
+        "zhang2023cpvd"
+    ],
+    "SolidiFi": [
+        "nguyen2022mando",
+        "nguyen2022mando2",
+        "sun2023assbert",
+        "nguyen2023mando",
+        "cai2023combine"
+    ],
+    "Xiao et al.": [
+        "du2020cross"
+    ],
+    "DbgBench": [
+        "steenhoek2024dataflow"
+    ],
+    "Chen et al": [
+        "li2023vulhunter"
+    ],
+    "Draper": [
+        "hanif2022vulberta"
+    ],
+    "muVulDeePecker": [
+        "tian2024enhancing"
+    ],
+    "SmartEmbed": [
+        "jie2023novel"
+    ],
+    "Juliet Java 1.3": [
+        "hussain2024vulnerability"
+    ],
+    "FUNDED": [
+        "hussain2024vulnerability",
+        "zhang2023cpvd"
+    ],
+    "Vul4J": [
+        "hussain2024vulnerability"
+    ],
+    "Smart Contract Dataset": [
+        "huang2024effective"
+    ],
+    "SoliAudit-benchmark": [
+        "sun2023assbert"
+    ],
+    "CVAD": [
+        "li2023commit"
+    ],
+    "codeXGLUE": [
+        "tang2023csgvd"
+    ],
+    "Ferreira et al": [
+        "guo2023reentrancy"
+    ],
+    "Qian et al": [
+        "guo2023reentrancy"
+    ],
+    "Darieux et al": [
+        "guo2023reentrancy"
+    ],
+    "Huang et al.": [
+        "zhou2023smart"
+    ],
+    "NIST": [
+        "zheng2023multitype"
+    ],
+    "Devign": [
+        "zhang2023cpvd"
+    ],
+    "Web3Bugs": [
+        "sun2024gptscan"
+    ],
+    "DeFi Hacks dataset": [
+        "sun2024gptscan"
+    ],
+    "HuanGai": [
+        "cai2023combine"
+    ],
+    "ExploitDB": [
+        "du2024vulnerability"
+    ]
+}

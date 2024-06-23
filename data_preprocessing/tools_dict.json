@@ -1,0 +1,335 @@
+{
+    "scikit-learn": [
+        "chen2020machine",
+        "wang2020combining",
+        "kronjee2018discovering",
+        "hin2022linevd",
+        "ghaffarian2021neural",
+        "lin2019software",
+        "du2020cross",
+        "jain2023multi",
+        "hussain2024vulnerability",
+        "zhang2023cpvd",
+        "zhang2024vulnerability"
+    ],
+    "N.A": [
+        "zhou2017automated",
+        "wang2016automatically",
+        "yamaguchi2013chucky",
+        "zeng2021gcn2defect",
+        "scandariato2014predicting",
+        "zhuang2020smart",
+        "Vuldiggerpaper",
+        "li2021vulnerability",
+        "yamaguchi2011vulnerability",
+        "duan2019vulsniper",
+        "zhang2022reentrancy",
+        "ni2022best",
+        "yang2022source",
+        "nguyen2022mando",
+        "nguyen2022mando2",
+        "li2023vulanalyzer",
+        "xu2022detecting",
+        "fan2023vdotr",
+        "gu2023binaiv",
+        "pan2023fine",
+        "nguyen2024context",
+        "guo2022hyvuldect",
+        "xiao2024msgvul",
+        "lu2024grace",
+        "sun2023assbert",
+        "you2023smartdt",
+        "yu2023pscvfinder",
+        "li2023commit",
+        "tang2023csgvd",
+        "guo2023reentrancy",
+        "zhou2023smart",
+        "liu2024detect",
+        "nguyen2023mando",
+        "yuan2023optimizing",
+        "liu2022cpgbert",
+        "xiao2024vulnerability"
+    ],
+    "Theano": [
+        "dam2018automatic",
+        "li2018vuldeepecker"
+    ],
+    "Keras/TensorFlow": [
+        "dam2018automatic",
+        "jeon2021autovas",
+        "tian2020bvdetector",
+        "liu2020cd",
+        "wang2020combining",
+        "liu2021combining",
+        "nguyen2020deep",
+        "pradel2018deepbugs",
+        "3172102",
+        "pascarella2019fine",
+        "yan2021han",
+        "3429444",
+        "le2018maximal",
+        "zou2019mu",
+        "cao2022mvd",
+        "ghaffarian2021neural",
+        "li2017software",
+        "lin2019software",
+        "li2021sysevr",
+        "filus2020random",
+        "li2021vuldeelocator",
+        "li2018vuldeepecker",
+        "zhuang2022just",
+        "liu2021smart",
+        "ding2022velvet",
+        "sendner2023smarter",
+        "nguyen2024deep",
+        "sun2021vdsimilar",
+        "jain2023multi",
+        "jie2023novel",
+        "hussain2024vulnerability",
+        "wu2024ultravcs",
+        "wang2023binvuldet",
+        "cao2021bgnn4vd",
+        "chen2023bitcn_drsn",
+        "chen2024hybrid",
+        "li2023smart",
+        "wang2024graph",
+        "nguyen2024code",
+        "wartschinski2022vudenc",
+        "kong2024multi",
+        "du2024vulnerability"
+    ],
+    "SZZ": [
+        "shippey2019automatically",
+        "pascarella2019fine"
+    ],
+    "JDK": [
+        "shippey2019automatically"
+    ],
+    "Angr": [
+        "tian2020bvdetector"
+    ],
+    "Checkmarx": [
+        "tian2020bvdetector"
+    ],
+    "GenSim": [
+        "liu2020cd",
+        "zhou2019devign",
+        "hin2022linevd",
+        "ghaffarian2021neural",
+        "lin2019software",
+        "tian2024enhancing",
+        "jie2023novel",
+        "wu2024ultravcs",
+        "zhang2023cpvd"
+    ],
+    "CodeSensor": [
+        "liu2020cd",
+        "liu2019deepbalance"
+    ],
+    "Soot": [
+        "wang2020combining",
+        "3360588",
+        "li2019improving"
+    ],
+    "ANTLR": [
+        "wang2020combining",
+        "sun2024gptscan"
+    ],
+    "Joern": [
+        "wang2020combining",
+        "zhou2019devign",
+        "le2018maximal",
+        "zou2019mu",
+        "cao2022mvd",
+        "cheng2022path",
+        "ding2022velvet",
+        "zou2022mvulpreter",
+        "steenhoek2024dataflow",
+        "wu2023slicedlocator",
+        "wan2023software",
+        "dong2023dekedver",
+        "wang2023lcvd",
+        "wen2023vulnerability",
+        "wang2023deepvd",
+        "ni2023function",
+        "cai2023software",
+        "yuan2023enhancing",
+        "zhang2023cpvd",
+        "tang2022sevuldet",
+        "zhang2024vulnerability",
+        "kong2024multi",
+        "sun2024vdtriplet",
+        "wu2022vulcnn"
+    ],
+    "Pycparser": [
+        "phan2017convolutional"
+    ],
+    "RSM tool": [
+        "phan2017convolutional"
+    ],
+    "objdump": [
+        "nguyen2020deep"
+    ],
+    "Capstone": [
+        "nguyen2020deep"
+    ],
+    "Acorn JavaScript parser": [
+        "pradel2018deepbugs"
+    ],
+    "NLTK": [
+        "le2021deepcva",
+        "hoang2019deepjit",
+        "pascarella2019fine",
+        "hin2022linevd"
+    ],
+    "PorterStemmer": [
+        "le2021deepcva"
+    ],
+    "PyTorch": [
+        "cheng2021deepwukong",
+        "zhou2019devign",
+        "dinella2020hoppity",
+        "hin2022linevd",
+        "fu2022linevul",
+        "zheng2021vulspg",
+        "cheng2022path",
+        "zou2022mvulpreter",
+        "steenhoek2024dataflow",
+        "liu2023vulnerable",
+        "wu2023slicedlocator",
+        "li2023vulhunter",
+        "song2023hgivul",
+        "hanif2022vulberta",
+        "wan2023software",
+        "tian2024enhancing",
+        "wen2023meta",
+        "dong2023dekedver",
+        "allamanis2021self",
+        "chen2023smart",
+        "jie2023novel",
+        "zhu2023grabit",
+        "zheng2021vu1spg",
+        "huang2024effective",
+        "wang2023lcvd",
+        "wang2023lcvd",
+        "cheng2019static",
+        "cai2023software",
+        "yuan2023enhancing",
+        "cai2024fine",
+        "ren2023smart",
+        "zhen2024gnn",
+        "zheng2023multitype",
+        "li2023cross",
+        "zhang2023cpvd",
+        "hariharan2022proximal",
+        "zhang2024vulnerability",
+        "kong2024multi",
+        "sun2024vdtriplet",
+        "wu2022vulcnn",
+        "dong2023sedsvd",
+        "tao2023vulnerability"
+    ],
+    "mongrel2": [
+        "cheng2021deepwukong"
+    ],
+    "Weka": [
+        "kronjee2018discovering"
+    ],
+    "xgboost": [
+        "kronjee2018discovering"
+    ],
+    "IDA Pro": [
+        "yan2021han"
+    ],
+    "shift-ast": [
+        "dinella2020hoppity"
+    ],
+    "fast-json-patch": [
+        "dinella2020hoppity"
+    ],
+    "Mist": [
+        "huang2021hunting"
+    ],
+    "Wala": [
+        "3360588"
+    ],
+    "JDT": [
+        "3360588"
+    ],
+    "spacy": [
+        "hin2022linevd"
+    ],
+    "torchtext": [
+        "hin2022linevd"
+    ],
+    "Transformers": [
+        "fu2022linevul",
+        "hanif2022vulberta"
+    ],
+    "Networkx": [
+        "ghaffarian2021neural",
+        "wan2023software",
+        "cai2023software",
+        "cai2023combine",
+        "wu2022vulcnn"
+    ],
+    "tree-sitter": [
+        "wu2021peculiar",
+        "wu2023slicedlocator"
+    ],
+    "javalang": [
+        "li2017software"
+    ],
+    "LibLinear": [
+        "riom2021revisiting"
+    ],
+    "Clang": [
+        "cheng2022path",
+        "hanif2022vulberta"
+    ],
+    "Z3 SMT solver": [
+        "cheng2022path"
+    ],
+    "sent2vec": [
+        "zou2022mvulpreter",
+        "wu2022vulcnn"
+    ],
+    "DGL": [
+        "steenhoek2024dataflow",
+        "zheng2021vu1spg",
+        "cai2024fine",
+        "zhang2023cpvd",
+        "zhang2024vulnerability",
+        "cai2023combine"
+    ],
+    "PyGithub": [
+        "hanif2022vulberta"
+    ],
+    "BPE Tokenizer": [
+        "hanif2022vulberta"
+    ],
+    "Stellargraph": [
+        "jie2023novel"
+    ],
+    "Kam1n0": [
+        "ashizawa2021eth2vec"
+    ],
+    "py-solc-x": [
+        "ashizawa2021eth2vec"
+    ],
+    "solidity-parser-antlr": [
+        "zhang2023svscanner"
+    ],
+    "Neo4j": [
+        "sun2024vdtriplet"
+    ],
+    "crytic-compiler": [
+        "sun2024gptscan"
+    ],
+    "solc-typed-ast": [
+        "cai2023combine"
+    ],
+    "GDB": [
+        "tao2023vulnerability"
+    ]
+}

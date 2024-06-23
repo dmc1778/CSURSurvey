@@ -1,0 +1,177 @@
+LSTM
+DBN
+LSTM
+ ‌BiLSTM
+ GRU
+ BGRU
+RNN
+ LSTM
+ ‌BiLSTM
+ GRU
+ BRNN
+ BGRU
+GCN
+DGCNN
+Feed Forward
+GRU
+ CNN
+CNN
+GCN
+ GAT
+ GNN
+GNN
+Memory Neural Networks
+GCN
+BGRU
+ TextCNN
+GNN
+ LSTM
+GRU
+ CNN
+BGRU
+ BiLSTM
+ CNN
+GRU
+GAT
+SEQUENTIAL AUTO-ENCODER
+BiLSTM
+GNN
+GAT
+ GCN
+GraphCodeBERT
+GCN 
+CNN
+BiLSTM
+ Random Forest
+BGRU
+CNN
+ RNN
+BiLSTM
+ BGRU
+BiLSTM
+GCN
+ GRU
+ Tree-LSTM
+Attention Mechanism
+GCN
+LSTM
+Attention Mechanism
+Attention Mechanism
+GGNN
+Attention Mechanism
+CodeBERT
+HGT
+GGNN
+GCN
+HGNN
+GGNN
+BGRU
+ GCN
+LSTM
+ GRU
+BRNN
+ GAN
+BiLSTM
+GCN
+GNN
+ LSTM
+LSTM
+BiLSTM
+GCN
+CNN
+GGNN
+TextCNN
+Attention Mechanism
+BiLSTM
+GNN
+TextRCNN
+ RGAT
+GNN
+Attention Mechanism
+RGCN
+BiLSTM
+ TextCNN
+QCNN
+BiLSTM
+RGCN
+Representation learning
+RNN
+ GGNN
+GRU
+ BiLSTM
+‌BiLSTM
+LSTM
+ RGCN
+GNN
+GCN
+GRU
+ SPP
+ Tree-LSTM
+ GCN
+ FCL
+BiLSTM
+BGNN
+ GNN
+TCN
+ DRSN
+GPT-4
+Active learning
+GCN
+GAT
+ GCN
+TextCNN
+BiLSTM
+Code-T5
+CNN
+ TCN
+FCN
+Cosine similarity
+ model
+GCN
+GNN
+ Tree-LSTM
+GCN
+ FCN
+GNN
+ GCN
+ BiLSTM
+BiLSTM
+GAT
+ GCN
+GAT
+GRU
+ DCN
+BiLSTM
+ TextCNN
+BiLSTM
+LSTM
+ GCN
+ GRU
+GCL
+ GRU
+GNN
+GGNN
+ GRU
+GGNN
+GNN
+GAT
+Attention Mechanism
+CNN
+GAT
+Transformer encoder
+LSTM
+BERT
+BGRU
+ HGCN
+TextCNN
+GPT-3.5_turbo
+GCN
+CNN
+Attention Mechanism
+GGNN
+ GCN
+ RGCN
+BGRU
+GGRU
+CNN
+ BGRU

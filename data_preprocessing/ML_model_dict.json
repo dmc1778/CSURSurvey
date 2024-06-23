@@ -1,0 +1,79 @@
+{
+    "Random Forest": [
+        "chen2020machine",
+        "zhou2017automated",
+        "liu2019deepbalance",
+        "kronjee2018discovering",
+        "pascarella2019fine",
+        "scandariato2014predicting",
+        "Vuldiggerpaper"
+    ],
+    "Naive Bayes": [
+        "chen2020machine",
+        "zhou2017automated",
+        "kronjee2018discovering",
+        "pascarella2019fine",
+        "scandariato2014predicting"
+    ],
+    "KNN": [
+        "chen2020machine",
+        "zhou2017automated",
+        "liu2020cd",
+        "scandariato2014predicting"
+    ],
+    "SVM": [
+        "chen2020machine",
+        "zhou2017automated",
+        "scandariato2014predicting",
+        "riom2021revisiting"
+    ],
+    "Gradient Boosting": [
+        "chen2020machine",
+        "zhou2017automated",
+        "du2020cross"
+    ],
+    "AdaBoost": [
+        "chen2020machine",
+        "zhou2017automated",
+        "du2020cross"
+    ],
+    "Logistic Regression": [
+        "zhou2017automated",
+        "kronjee2018discovering",
+        "pascarella2019fine"
+    ],
+    "n-gram models": [
+        "shippey2019automatically"
+    ],
+    "distance measure": [
+        "yamaguchi2013chucky"
+    ],
+    "Kernel Machines": [
+        "nguyen2020deep"
+    ],
+    "Decision tree": [
+        "kronjee2018discovering"
+    ],
+    "TAN": [
+        "kronjee2018discovering"
+    ],
+    "ADTree": [
+        "pascarella2019fine"
+    ],
+    "Similarity Measure": [
+        "huang2021hunting",
+        "gu2023binaiv"
+    ],
+    "Decision Trees": [
+        "scandariato2014predicting"
+    ],
+    "PCA": [
+        "yamaguchi2011vulnerability"
+    ],
+    "SGDClassifier": [
+        "du2020cross"
+    ],
+    "TrAdaBoost": [
+        "du2020cross"
+    ]
+}

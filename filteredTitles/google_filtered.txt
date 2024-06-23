@@ -1,0 +1,16 @@
+Machine learning methods for software vulnerability detection
+Bugram: bug detection with n-gram language models
+Automated software vulnerability detection with machine learning
+Devign: Effective vulnerability identification by learning comprehensive program semantics via graph neural networks
+Combining graph-based learning with automated data collection for code vulnerability detection
+Improving bug detection via context-based code representation learning and attention-based neural networks
+Automated identification of security issues from commit messages and bug reports
+A performance evaluation of deep‐learnt features for software vulnerability detection
+Deep learning for just-in-time defect prediction
+Self-supervised bug detection and repair
+Vuldeepecker: A deep learning-based system for vulnerability detection
+Vuldeepecker: A deep learning -based system for vulnerability detection
+Discovre: Efficient cross-architecture identification of bugs in binary code .
+Vulpecker: an automated vulnerability detection system based on code similarity analysis
+Deepbugs: A learning approach to name-based bug detection
+Automated vulnerability detection in source code using deep representation learning

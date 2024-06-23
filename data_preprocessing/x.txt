@@ -1,0 +1,46 @@
+The total number of items for LSTM is 13
+The total number of items for DBN is 1
+The total number of items for BiLSTM is 20
+The total number of items for GRU is 14
+The total number of items for BGRU is 10
+The total number of items for RNN is 3
+The total number of items for BRNN is 2
+The total number of items for KNN is 1
+The total number of items for GGNN is 9
+The total number of items for GCN is 22
+The total number of items for DGCNN is 1
+The total number of items for Random Forest is 1
+The total number of items for Feed Forward is 1
+The total number of items for CNN is 11
+The total number of items for GAT is 8
+The total number of items for GNN is 13
+The total number of items for Memory Neural Networks is 1
+The total number of items for TextCNN is 6
+The total number of items for SEQUENTIAL AUTO-ENCODER is 1
+The total number of items for GraphCodeBERT is 1
+The total number of items for Tree-LSTM is 3
+The total number of items for Attention Mechanism is 8
+The total number of items for CodeBERT is 1
+The total number of items for HGT is 1
+The total number of items for HGNN is 1
+The total number of items for GAN is 1
+The total number of items for TextRCNN is 1
+The total number of items for RGAT is 1
+The total number of items for RGCN is 4
+The total number of items for QCNN is 1
+The total number of items for Representation learning is 1
+The total number of items for BGNN is 1
+The total number of items for TCN is 2
+The total number of items for DRSN is 1
+The total number of items for GPT-4 is 1
+The total number of items for BERT is 2
+The total number of items for Code-T5 is 1
+The total number of items for FCN is 2
+The total number of items for Cosine similarity is 1
+The total number of items for model is 1
+The total number of items for DCN is 1
+The total number of items for GCL is 1
+The total number of items for Transformer encoder is 1
+The total number of items for HGCN is 1
+The total number of items for GPT-3.5_turbo is 1
+The total number of items for GGRU is 1

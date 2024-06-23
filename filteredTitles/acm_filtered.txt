@@ -1,0 +1,22 @@
+An Efficient Malicious Code Detection System Based on Convolutional Neural Networks
+Explaining Graph Neural Networks for Vulnerability Discovery
+Vulnerability Sample Analysis Based on Reverse Debugging
+Improving bug detection via context-based code representation learning and attention-based neural networks
+Commit-Level, Neural Vulnerability Detection and Assessment
+DeepWukong: Statically Detecting Software Vulnerabilities Using Deep Graph Neural Network
+A machine learning based approach to identify SQL injection vulnerabilities
+Multiclass Classification of Software Vulnerabilities with Deep Learning
+VRust: Automated Vulnerability Detection for Solana Smart Contracts
+VulPecker: an automated vulnerability detection system based on code similarity analysis
+Predicting Vulnerable Software Components through Deep Neural Network
+GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis
+Vulnerability detection with fine-grained interpretations
+Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing
+A hybrid analysis to detect Java serialisation vulnerabilities
+Automatically fixing security vulnerabilities in Java code
+Compact Abstract Graphs for Detecting Code Vulnerability with GNN Models
+Transformer-Based Language Models for Software Vulnerability Detection
+Toward Improved Deep Learning-based Vulnerability Detection
+Data Race Detection Using Large Language Models
+VCCFinder: Finding Potential Vulnerabilities in Open-Source Projects to Assist Code Audits
+Detecting recurring and similar software vulnerabilities

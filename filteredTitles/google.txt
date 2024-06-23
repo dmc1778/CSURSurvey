@@ -1,0 +1,27 @@
+Automated vulnerability detection in source code using deep representation learning
+Automated software vulnerability detection with machine learning
+Machine learning methods for software vulnerability detection
+Vuldeepecker: A deep learning-based system for vulnerability detection
+Vulpecker: an automated vulnerability detection system based on code similarity analysis
+Automated software vulnerability detection with machine learning
+Vuldeepecker: A deep learning-based system for vulnerability detection
+Vulpecker: an automated vulnerability detection system based on code similarity analysis
+A performance evaluation of deep‐learnt features for software vulnerability detection
+Vuldeepecker: A deep learning -based system for vulnerability detection
+Automated vulnerability detection in source code using deep representation learning
+Devign: Effective vulnerability identification by learning comprehensive program semantics via graph neural networks
+Deep learning for just-in-time defect prediction
+Deepbugs: A learning approach to name-based bug detection
+Discovre: Efficient cross-architecture identification of bugs in binary code .
+Automated vulnerability detection in source code using deep representation learning
+Automated vulnerability detection in source code using deep representation learning
+Combining graph-based learning with automated data collection for code vulnerability detection
+Automated software vulnerability detection with machine learning
+Vulpecker: an automated vulnerability detection system based on code similarity analysis
+Vuldeepecker: A deep learning-based system for vulnerability detection
+Machine learning methods for software vulnerability detection
+Deepbugs: A learning approach to name-based bug detection
+Improving bug detection via context-based code representation learning and attention-based neural networks
+Self-supervised bug detection and repair
+Bugram: bug detection with n-gram language models
+Automated identification of security issues from commit messages and bug reports

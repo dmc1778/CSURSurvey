@@ -1,0 +1,624 @@
+{
+
+    "CWE-610": [
+        "wang2020combining"
+    ],
+    "CWE-074": [
+        "wang2020combining"
+    ],
+    "CWE-666": [
+        "wang2020combining"
+    ],
+    "CWE-138": [
+        "wang2020combining"
+    ],
+    "CWE-665": [
+        "wang2020combining"
+    ],
+    "CWE-758": [
+        "wang2020combining"
+    ],
+    "CWE-670": [
+        "wang2020combining"
+    ],
+    "CWE-077": [
+        "wang2020combining"
+    ],
+    "CWE-469": [
+        "wang2020combining",
+        "fan2023vdotr"
+    ],
+    "CWE-676": [
+        "wang2020combining"
+    ],
+    "CWE-834": [
+        "wang2020combining",
+        "wang2023lcvd"
+    ],
+    "Swapped arguments": [
+        "pradel2018deepbugs"
+    ],
+    "Wrong binary operator": [
+        "pradel2018deepbugs"
+    ],
+    "Wrong binary operand": [
+        "pradel2018deepbugs"
+    ],
+    "CWE-22 CWE-99": [
+        "cheng2021deepwukong"
+    ],
+    "CWE-79": [
+        "kronjee2018discovering",
+        "wen2023meta"
+    ],
+    "Reenterancy": [
+        "huang2021hunting"
+    ],
+    "Bad randomness": [
+        "huang2021hunting",
+        "yuan2023optimizing"
+    ],
+    "unprotected ownership": [
+        "huang2021hunting"
+    ],
+    "mishandled exceptions": [
+        "huang2021hunting"
+    ],
+    "Bug detection": [
+        "3360588"
+    ],
+    "CWE-680": [
+        "3429444"
+    ],
+    "CWE-789": [
+        "3429444",
+        "yang2022source"
+    ],
+    "CWE-761": [
+        "3429444"
+    ],
+    "CWE-77": [
+        "fu2022linevul",
+        "tian2024enhancing",
+        "wen2023meta",
+        "wen2023vulnerability"
+    ],
+    "CWE-120": [
+        "cao2022mvd",
+        "fan2023vdotr"
+    ],
+    "CWE-124": [
+        "cao2022mvd",
+        "wan2023software",
+        "cai2023software",
+        "tao2023vulnerability"
+    ],
+    "CWE-126": [
+        "cao2022mvd",
+        "wan2023software",
+        "cai2023software",
+        "tao2023vulnerability"
+    ],
+    "CWE-401": [
+        "cao2022mvd",
+        "ding2022velvet",
+        "xu2022detecting"
+    ],
+    "CWE-415": [
+        "cao2022mvd",
+        "xu2022detecting",
+        "ni2023function"
+    ],
+    "CWE-824": [
+        "cao2022mvd"
+    ],
+    "CWE-90": [
+        "ghaffarian2021neural"
+    ],
+    "CWE-501": [
+        "ghaffarian2021neural"
+    ],
+    "CWE-643": [
+        "ghaffarian2021neural"
+    ],
+    "CWE-127": [
+        "li2021vuldeelocator",
+        "wan2023software",
+        "cai2023software",
+        "tao2023vulnerability"
+    ],
+    "CWE-563": [
+        "ding2022velvet"
+    ],
+    "CWE-457": [
+        "ding2022velvet"
+    ],
+    "CWE-129": [
+        "yang2022source",
+        "xu2022detecting"
+    ],
+    "": [
+        "li2023vulanalyzer"
+    ],
+    "Callstack Depth": [
+        "sendner2023smarter"
+    ],
+    "Money Concurrency": [
+        "sendner2023smarter"
+    ],
+    "Assert Violation": [
+        "sendner2023smarter"
+    ],
+    "Unchecked Call": [
+        "sendner2023smarter"
+    ],
+    "Time Dependenc": [
+        "sendner2023smarter"
+    ],
+    "DoS with Failed Call": [
+        "sendner2023smarter"
+    ],
+    "CWE-310": [
+        "sun2021vdsimilar",
+        "lu2024grace",
+        "ni2023function"
+    ],
+    "CWE-264": [
+        "sun2021vdsimilar",
+        "dong2023dekedver",
+        "lu2024grace",
+        "ni2023function"
+    ],
+    "CWE-94": [
+        "sun2021vdsimilar",
+        "wen2023meta"
+    ],
+    "CWE-19": [
+        "sun2021vdsimilar"
+    ],
+    "arithmetic": [
+        "liu2023vulnerable"
+    ],
+    "reentrancy and timestamp dependenc": [
+        "liu2023vulnerable"
+    ],
+    "CWE-128": [
+        "wu2023slicedlocator"
+    ],
+    "CWE-134": [
+        "wan2023software",
+        "tian2024enhancing",
+        "cai2023software",
+        "tao2023vulnerability"
+    ],
+    "CWE-195": [
+        "wan2023software",
+        "cai2023software",
+        "tao2023vulnerability"
+    ],
+    "CWE-73": [
+        "tian2024enhancing"
+    ],
+    "CWE-176": [
+        "tian2024enhancing"
+    ],
+    "CWE-252": [
+        "tian2024enhancing"
+    ],
+    "CWE-253": [
+        "tian2024enhancing"
+    ],
+    "CWE-271": [
+        "tian2024enhancing"
+    ],
+    "CWE-284": [
+        "tian2024enhancing",
+        "lu2024grace"
+    ],
+    "CWE-319": [
+        "tian2024enhancing"
+    ],
+    "CWE-325": [
+        "tian2024enhancing"
+    ],
+    "CWE-327": [
+        "tian2024enhancing"
+    ],
+    "CWE-328": [
+        "tian2024enhancing"
+    ],
+    "CWE-377": [
+        "tian2024enhancing"
+    ],
+    "CWE-390": [
+        "tian2024enhancing"
+    ],
+    "CWE-391": [
+        "tian2024enhancing"
+    ],
+    "CWE-352": [
+        "wen2023meta"
+    ],
+    "CWE-434": [
+        "wen2023meta"
+    ],
+    "CWE-862": [
+        "wen2023meta"
+    ],
+    "CWE-502": [
+        "wen2023meta"
+    ],
+    "CWE-798": [
+        "wen2023meta"
+    ],
+    "CWE-918": [
+        "wen2023meta"
+    ],
+    "CWE-306": [
+        "wen2023meta"
+    ],
+    "CWE-269": [
+        "wen2023meta",
+        "ni2023function"
+    ],
+    "CWE-863": [
+        "wen2023meta"
+    ],
+    "CWE-276": [
+        "wen2023meta"
+    ],
+    "CallDepth": [
+        "jain2023multi",
+        "sun2023assbert"
+    ],
+    "TOD": [
+        "jain2023multi",
+        "sun2023assbert"
+    ],
+    "TimeDep": [
+        "jain2023multi"
+    ],
+    "AssertFail": [
+        "jain2023multi"
+    ],
+    "TxOrigin": [
+        "jain2023multi"
+    ],
+    "CheckEffect": [
+        "jain2023multi"
+    ],
+    "InlineAssembly": [
+        "jain2023multi"
+    ],
+    "BlockTimestamp": [
+        "jain2023multi"
+    ],
+    "LowlevelCalls": [
+        "jain2023multi"
+    ],
+    "reentrancy": [
+        "zhu2023grabit",
+        "ren2023smart",
+        "li2023smart"
+    ],
+    "CWE-706": [
+        "guo2022hyvuldect"
+    ],
+    "CWE-74": [
+        "guo2022hyvuldect"
+    ],
+    "CWE-606": [
+        "wang2023lcvd"
+    ],
+    "CWE-835": [
+        "wang2023lcvd",
+        "sun2024vdtriplet"
+    ],
+    "CWE23": [
+        "wang2023binvuldet"
+    ],
+    "CWE36": [
+        "wang2023binvuldet"
+    ],
+    "CWE78": [
+        "wang2023binvuldet",
+        "kong2024multi"
+    ],
+    "CWE121": [
+        "wang2023binvuldet",
+        "kong2024multi"
+    ],
+    "CWE122": [
+        "wang2023binvuldet",
+        "kong2024multi"
+    ],
+    "CWE123": [
+        "wang2023binvuldet"
+    ],
+    "CWE124": [
+        "wang2023binvuldet"
+    ],
+    "CWE126": [
+        "wang2023binvuldet"
+    ],
+    "CWE127": [
+        "wang2023binvuldet",
+        "kong2024multi"
+    ],
+    "CWE134": [
+        "wang2023binvuldet"
+    ],
+    "CWE190": [
+        "wang2023binvuldet"
+    ],
+    "CWE191": [
+        "wang2023binvuldet"
+    ],
+    "CWE194": [
+        "wang2023binvuldet"
+    ],
+    "CWE195": [
+        "wang2023binvuldet"
+    ],
+    "CWE196": [
+        "wang2023binvuldet"
+    ],
+    "CWE197": [
+        "wang2023binvuldet"
+    ],
+    "CWE242": [
+        "wang2023binvuldet"
+    ],
+    "CWE252": [
+        "wang2023binvuldet"
+    ],
+    "CWE253": [
+        "wang2023binvuldet"
+    ],
+    "CWE367": [
+        "wang2023binvuldet"
+    ],
+    "CWE369": [
+        "wang2023binvuldet"
+    ],
+    "CWE377": [
+        "wang2023binvuldet"
+    ],
+    "CWE390": [
+        "wang2023binvuldet"
+    ],
+    "CWE391": [
+        "wang2023binvuldet"
+    ],
+    "CWE400": [
+        "wang2023binvuldet"
+    ],
+    "CWE401": [
+        "wang2023binvuldet"
+    ],
+    "CWE404": [
+        "wang2023binvuldet"
+    ],
+    "CWE415": [
+        "wang2023binvuldet"
+    ],
+    "CWE416": [
+        "wang2023binvuldet"
+    ],
+    "CWE426": [
+        "wang2023binvuldet"
+    ],
+    "CWE427": [
+        "wang2023binvuldet"
+    ],
+    "CWE457": [
+        "wang2023binvuldet"
+    ],
+    "CWE459": [
+        "wang2023binvuldet"
+    ],
+    "CWE475": [
+        "wang2023binvuldet"
+    ],
+    "CWE510": [
+        "wang2023binvuldet"
+    ],
+    "CWE511": [
+        "wang2023binvuldet"
+    ],
+    "CWE526": [
+        "wang2023binvuldet"
+    ],
+    "CWE590": [
+        "wang2023binvuldet",
+        "kong2024multi"
+    ],
+    "CWE605": [
+        "wang2023binvuldet"
+    ],
+    "CWE606": [
+        "wang2023binvuldet"
+    ],
+    "CWE617": [
+        "wang2023binvuldet"
+    ],
+    "CWE665": [
+        "wang2023binvuldet"
+    ],
+    "CWE666": [
+        "wang2023binvuldet"
+    ],
+    "CWE667": [
+        "wang2023binvuldet"
+    ],
+    "CWE675": [
+        "wang2023binvuldet"
+    ],
+    "CWE680": [
+        "wang2023binvuldet"
+    ],
+    "CWE685": [
+        "wang2023binvuldet"
+    ],
+    "CWE688": [
+        "wang2023binvuldet"
+    ],
+    "CWE690": [
+        "wang2023binvuldet"
+    ],
+    "CWE758": [
+        "wang2023binvuldet"
+    ],
+    "CWE761": [
+        "wang2023binvuldet"
+    ],
+    "CWE773": [
+        "wang2023binvuldet"
+    ],
+    "CWE775": [
+        "wang2023binvuldet"
+    ],
+    "CWE789": [
+        "wang2023binvuldet"
+    ],
+    "CWE832": [
+        "wang2023binvuldet"
+    ],
+    "Timestemp": [
+        "sun2023assbert"
+    ],
+    "Flow": [
+        "sun2023assbert"
+    ],
+    "Tx.origin": [
+        "sun2023assbert"
+    ],
+    "CWE-691": [
+        "cheng2019static",
+        "hariharan2022proximal"
+    ],
+    "CWE-840": [
+        "cheng2019static"
+    ],
+    "CWE-438": [
+        "cheng2019static"
+    ],
+    "CWE-59": [
+        "ni2023function"
+    ],
+    "Unchecked Call Return Value": [
+        "you2023smartdt"
+    ],
+    "Transaction Order Dependence": [
+        "you2023smartdt"
+    ],
+    "Authorization thorugh tx.origin": [
+        "you2023smartdt"
+    ],
+    "Timestamp dependency": [
+        "yu2023pscvfinder"
+    ],
+    "Time dependency": [
+        "ashizawa2021eth2vec"
+    ],
+    "ERC-20 transfer": [
+        "ashizawa2021eth2vec"
+    ],
+    "Gas consumption": [
+        "ashizawa2021eth2vec"
+    ],
+    "implicit visibility": [
+        "ashizawa2021eth2vec"
+    ],
+    "Unchecked low-level call": [
+        "cai2024fine"
+    ],
+    "ERC20 transaction order dependency": [
+        "cai2024fine"
+    ],
+    "Unsafe recast": [
+        "cai2024fine"
+    ],
+    "Access control": [
+        "cai2024fine",
+        "yuan2023optimizing"
+    ],
+    "delegate calls": [
+        "ren2023smart"
+    ],
+    "timestamp dependency": [
+        "ren2023smart"
+    ],
+    "reentrancy vulnerability": [
+        "zhou2023smart"
+    ],
+    "unknown address vulnerability": [
+        "zhou2023smart"
+    ],
+    "CWE-121/CWE-122": [
+        "zheng2023multitype"
+    ],
+    "Arithmetic": [
+        "yuan2023optimizing"
+    ],
+    "Unchecked low level calls": [
+        "yuan2023optimizing"
+    ],
+    "Denial of service": [
+        "yuan2023optimizing"
+    ],
+    "Front running": [
+        "yuan2023optimizing"
+    ],
+    "Time manipulation": [
+        "yuan2023optimizing"
+    ],
+    "Short addresses": [
+        "yuan2023optimizing"
+    ],
+    "Unknown": [
+        "yuan2023optimizing"
+    ],
+    "Approval Not Cleared": [
+        "sun2024gptscan"
+    ],
+    "Risky First Deposit": [
+        "sun2024gptscan"
+    ],
+    "Price Manipulation by AMM": [
+        "sun2024gptscan"
+    ],
+    "Price Manipulation by Buying Tokens": [
+        "sun2024gptscan"
+    ],
+    "Vote Manipulation by Flashloan": [
+        "sun2024gptscan"
+    ],
+    "Front Running": [
+        "sun2024gptscan"
+    ],
+    "Wrong Interest Rate Order": [
+        "sun2024gptscan"
+    ],
+    "Wrong Checkpoint Order": [
+        "sun2024gptscan"
+    ],
+    "Slippage": [
+        "sun2024gptscan"
+    ],
+    "Unauthorized Transfer": [
+        "sun2024gptscan"
+    ],
+    "CWE-194": [
+        "tao2023vulnerability"
+    ],
+    "CWE-197": [
+        "tao2023vulnerability"
+    ],
+    "CWE-590": [
+        "tao2023vulnerability"
+    ],
+    "CWE-690": [
+        "tao2023vulnerability"
+    ]
+}

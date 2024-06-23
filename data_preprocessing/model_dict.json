@@ -1,0 +1,274 @@
+{
+    "LSTM": [
+        "dam2018automatic",
+        "jeon2021autovas",
+        "tian2020bvdetector",
+        "liu2020cd",
+        "liu2019deepbalance",
+        "dinella2020hoppity",
+        "zhuang2022just",
+        "sendner2023smarter",
+        "wu2023slicedlocator",
+        "li2023vulhunter",
+        "xiao2024msgvul",
+        "zheng2023multitype",
+        "wartschinski2022vudenc"
+    ],
+    "DBN": [
+        "wang2016automatically"
+    ],
+    "BiLSTM": [
+        "jeon2021autovas",
+        "tian2020bvdetector",
+        "3429444",
+        "zou2019mu",
+        "lin2019software",
+        "li2021vuldeelocator",
+        "li2018vuldeepecker",
+        "sun2021vdsimilar",
+        "xu2022detecting",
+        "pan2023fine",
+        "jie2023novel",
+        "zhu2023grabit",
+        "guo2022hyvuldect",
+        "huang2024effective",
+        "wang2023binvuldet",
+        "you2023smartdt",
+        "tang2023csgvd",
+        "ren2023smart",
+        "zhang2023svscanner",
+        "zhou2023smart"
+    ],
+    "GRU": [
+        "jeon2021autovas",
+        "tian2020bvdetector",
+        "wang2020combining",
+        "le2021deepcva",
+        "3360588",
+        "hin2022linevd",
+        "li2021vulnerability",
+        "sendner2023smarter",
+        "guo2022hyvuldect",
+        "wang2023deepvd",
+        "li2023smart",
+        "zheng2023multitype",
+        "wang2024graph",
+        "li2023cross"
+    ],
+    "BGRU": [
+        "jeon2021autovas",
+        "tian2020bvdetector",
+        "yan2021han",
+        "3429444",
+        "li2021sysevr",
+        "li2021vuldeelocator",
+        "li2023vulanalyzer",
+        "kong2024multi",
+        "du2024vulnerability",
+        "tao2023vulnerability"
+    ],
+    "RNN": [
+        "tian2020bvdetector",
+        "filus2020random",
+        "wu2024ultravcs"
+    ],
+    "BRNN": [
+        "tian2020bvdetector",
+        "nguyen2024deep"
+    ],
+    "KNN": [
+        "liu2020cd"
+    ],
+    "GGNN": [
+        "wang2020combining",
+        "ding2022velvet",
+        "zou2022mvulpreter",
+        "steenhoek2024dataflow",
+        "fan2023vdotr",
+        "wu2024ultravcs",
+        "li2023cross",
+        "liu2024detect",
+        "dong2023sedsvd"
+    ],
+    "GCN": [
+        "liu2021combining",
+        "cheng2021deepwukong",
+        "zeng2021gcn2defect",
+        "ghaffarian2021neural",
+        "zhuang2020smart",
+        "li2021vulnerability",
+        "zheng2021vulspg",
+        "nguyen2022mando",
+        "li2023vulanalyzer",
+        "liu2023vulnerable",
+        "song2023hgivul",
+        "wen2023vulnerability",
+        "wang2023deepvd",
+        "cheng2019static",
+        "ni2023function",
+        "cai2024fine",
+        "li2023commit",
+        "tang2023csgvd",
+        "guo2023reentrancy",
+        "zheng2023multitype",
+        "cai2023combine",
+        "dong2023sedsvd"
+    ],
+    "DGCNN": [
+        "phan2017convolutional"
+    ],
+    "Random Forest": [
+        "liu2019deepbalance"
+    ],
+    "Feed Forward": [
+        "pradel2018deepbugs"
+    ],
+    "CNN": [
+        "le2021deepcva",
+        "hoang2019deepjit",
+        "3360588",
+        "3429444",
+        "li2017software",
+        "filus2020random",
+        "hanif2022vulberta",
+        "chen2024hybrid",
+        "tang2022sevuldet",
+        "wu2022vulcnn",
+        "tao2023vulnerability"
+    ],
+    "GAT": [
+        "cheng2021deepwukong",
+        "fu2022linevul",
+        "ghaffarian2021neural",
+        "ni2023function",
+        "guo2023reentrancy",
+        "zhen2024gnn",
+        "zhang2023cpvd",
+        "zhang2024vulnerability"
+    ],
+    "GNN": [
+        "cheng2021deepwukong",
+        "zhou2019devign",
+        "dinella2020hoppity",
+        "cao2022mvd",
+        "wu2023slicedlocator",
+        "wen2023meta",
+        "allamanis2021self",
+        "wang2023lcvd",
+        "cao2021bgnn4vd",
+        "cai2024fine",
+        "tang2023csgvd",
+        "nguyen2024code",
+        "nguyen2023mando"
+    ],
+    "Memory Neural Networks": [
+        "3172102"
+    ],
+    "TextCNN": [
+        "yan2021han",
+        "wan2023software",
+        "jie2023novel",
+        "cai2023software",
+        "zhang2023svscanner",
+        "sun2024vdtriplet"
+    ],
+    "SEQUENTIAL AUTO-ENCODER": [
+        "le2018maximal"
+    ],
+    "GraphCodeBERT": [
+        "wu2021peculiar"
+    ],
+    "Tree-LSTM": [
+        "li2021vulnerability",
+        "wang2023deepvd",
+        "cai2024fine"
+    ],
+    "Attention Mechanism": [
+        "duan2019vulsniper",
+        "cheng2022path",
+        "liu2021smart",
+        "zhang2022reentrancy",
+        "tian2024enhancing",
+        "jain2023multi",
+        "hariharan2022proximal",
+        "li2019improving"
+    ],
+    "CodeBERT": [
+        "ni2022best"
+    ],
+    "HGT": [
+        "yang2022source"
+    ],
+    "HGNN": [
+        "nguyen2022mando2"
+    ],
+    "GAN": [
+        "nguyen2024deep"
+    ],
+    "TextRCNN": [
+        "dong2023dekedver"
+    ],
+    "RGAT": [
+        "dong2023dekedver"
+    ],
+    "RGCN": [
+        "chen2023smart",
+        "zheng2021vu1spg",
+        "xiao2024msgvul",
+        "dong2023sedsvd"
+    ],
+    "QCNN": [
+        "hussain2024vulnerability"
+    ],
+    "Representation learning": [
+        "nguyen2024context"
+    ],
+    "BGNN": [
+        "cao2021bgnn4vd"
+    ],
+    "TCN": [
+        "chen2023bitcn_drsn",
+        "chen2024hybrid"
+    ],
+    "DRSN": [
+        "chen2023bitcn_drsn"
+    ],
+    "GPT-4": [
+        "lu2024grace"
+    ],
+    "BERT": [
+        "sun2023assbert",
+        "liu2022cpgbert"
+    ],
+    "Code-T5": [
+        "yu2023pscvfinder"
+    ],
+    "FCN": [
+        "yuan2023enhancing",
+        "li2023commit"
+    ],
+    "Cosine similarity": [
+        "ashizawa2021eth2vec"
+    ],
+    "model": [
+        "ashizawa2021eth2vec"
+    ],
+    "DCN": [
+        "li2023smart"
+    ],
+    "GCL": [
+        "wang2024graph"
+    ],
+    "Transformer encoder": [
+        "yuan2023optimizing"
+    ],
+    "HGCN": [
+        "kong2024multi"
+    ],
+    "GPT-3.5_turbo": [
+        "sun2024gptscan"
+    ],
+    "GGRU": [
+        "xiao2024vulnerability"
+    ]
+}

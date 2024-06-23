@@ -1,0 +1,164 @@
+Title,Year,Type,Venue,Name,Rank
+Vulnerability Extrapolation: Assisted Discovery of Vulnerabilities using Machine Learning,"""2011""",workshop,Other,USENIX,A*
+Combining graph based learning with automated data collection for code vulnerability detection,"""2014""",journal,IEEE,"
+IEEE TIFS",A
+VCCFinder: Finding Potential Vulnerabilities in Open-Source Projects to Assist Code Audits,"""2015""",conference,ACM,CCS,A*
+Stack-based Buffer Overflow Detection using Recurrent Neural Networks,"""2015""",arxiv,Other,arxiv,N.A
+Predicting Vulnerable Software Components through N-gram Analysis and Statistical Feature Selection,"""2015""",conference,IEEE,IEEE ICMA,C
+Software Vulnerability Detection via Deep Learning over Disaggregated Code Graph Representation,"""2016""",arxiv,Other,arxiv,N.A
+Neural software vulnerability analysis using rich intermediate graph representations of programs,"""2016""",journal,Elsevier,Elsevier Information Sciences,A
+Cross project bug type prediction based on transfer learning,"""2016""",journal,Elsevier,Elsevier Software Quality Journal,C
+Vuldeepecker A deep learning based system for vulnerability detection,"""2016""",symposium,Other,USENIX NDSS,A*
+End-to-end prediction of buffer overruns from raw source code via neural memory networks,"""2017""",conference,ACM,ACM IJCAI,A*
+Semantic Code Repair using Neuro-SymbolicTransformation Networks,"""2017""",arxiv,Other,arxiv,N.A
+Automated identification of security issues from commit messages and reports,"""2017""",conference,ACM,ACM ECSE/FSE,A*
+Vuldigger: a just-in-time and cost-aware tool for digging vulnerability-contributing changes,"""2017""",conference,IEEE,IEEE GLOBCOM,B
+Software Defect Prediction Via Convolutional Neural Networks,"""2017""",conference,IEEE,IEEE QRS,B
+Vulnerability Detection in C/C++ Source Code With Graph Representation Learning,"""2017""",conference,ACM,ACM CCWC,N.A
+Improving bug detection via context based code representation learning and attention based neural networks,"""2017""",conference,ACM,ACM OOPSLA,A*
+Vuldeelocator a deep learning based fine grained vulnerability detector,"""2017""",journal,IEEE,IEEE TDSC,A
+Cross-Project Transfer Representation Learning for Vulnerable Function Discovery,"""2018""",journal,IEEE,IEEE Transaction on Industrial Informatics,N.A
+A practical approach to the automatic classification of security-relevant commits,"""2018""",conference,IEEE,IEEE ICSME,A
+Generalized vulnerability extrapolation using abstract syntax trees,"""2018""",conference,ACM,ACM ACSAC,USA: National
+Discovering software vulnerabilities using data flow analysis and machine learning,"""2018""",conference,ACM,ACM ARES,B
+A machine learning approach for vulnerability curation,"""2018""",conference,ACM,ACM MSR,A
+Using distributed representation of code for bug detection,"""2018""",arxiv,Other,arxiv,N.A
+On using distributed representations of source code for the detection of C security vulnerabilities,"""2018""",arxiv,Other,arxiv,N.A
+AutoVAS An automated vulnerability analysis system with a deep learning approach,"""2018""",journal,Elsevier,Elsevier Computer and Security,B
+Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding,"""2018""",conference,IEEE,IEEE International Conference on Engineering of Complex Computer Systems (ICECCS),N.A
+muVulDeePecker A deep learning based system for multiclass vulnerability detection,"""2018""",journal,IEEE,IEEE TDSC,A
+CD-VulD: Cross-Domain Vulnerability Discovery based on Deep Domain Adaptation,"""2018""",journal,IEEE,IEEE TDSC,A
+POSTER Vulnerability Discovery with Function Representation Learning from Unlabeled Projects,"""2019""",conference,ACM,CCS,A*
+Interpreting deep learning based vulnerability detector predictions based on heuristic searching,"""2019""",journal,ACM,ACM TOSEM,A*
+Automated software vulnerability detection with machine learning,"""2019""",arxiv,Other,arxiv,N.A
+Learning to map source code to software vulnerability using code as a graph,"""2019""",arxiv,Other,arxiv,N.A
+Multi-context Attention Fusion Neural Network for Software Vulnerability Identification,"""2019""",arxiv,Other,arxiv,N.A
+Automatically identifying code features for software defect prediction Using AST N grams,"""2019""",journal,Elsevier,Elsevier IST,A
+Hoppity Learning graph transformations to detect and fix bugs in programs,"""2019""",journal,Other,ICLR,A*
+Maximal divergence sequential autoencoder for binary software vulnerability detection,"""2019""",journal,Other,ICLR,A*
+Explainable Software vulnerability detection based on Attention based Bidirectional Recurrent Neural Networks,"""2019""",conference,IEEE,IEEE International Conference on Big Data (Big Data),N.A
+Software Vulnerability Discovery via Learning Multi-Domain Knowledge Bases,"""2019""",journal,IEEE,IEEE TDSC,A
+Predicting Vulnerable Software Components via Text Mining,"""2019""",journal,IEEE,TSE,A*
+Hunting Vulnerable Smart Contracts via Graph Embedding Based Bytecode Matching,"""2020""",journal,IEEE,"
+IEEE TIFS",A
+Vulseeker pro Enhanced semantic learning based binary vulnerability seeker with emulation,"""2020""",conference,ACM,ACM ECSE/FSE,A*
+vulnerability detection with fine grained interpretations,"""2020""",conference,ACM,ACM ECSE/FSE,A*
+Automatically learning semantic features for defect prediction,"""2020""",conference,ACM,ACM ICSE,A*
+Learning to Repair Software Vulnerabilitieswith Generative Adversarial Networks,"""2020""",conference,ACM,ACM NIPS,A*
+Chucky: Exposing Missing Checks in Source Code for Vulnerability Discovery,"""2020""",conference,ACM,CCS,A*
+A deep tree based model for software defect prediction,"""2020""",arxiv,Other,arxiv,N.A
+HAN BSVD A hierarchical attention network for binary software vulnerability detection,"""2020""",journal,Elsevier,Elsevier Computer and Security,B
+Fine grained just in time defect prediction,"""2020""",journal,Elsevier,Elsevier JSS,A
+Automated Vulnerability Detection in Source Code Using Deep Representation Learning,"""2020""",conference,Other,ICMLA,C
+Convolutional neural networks over control flow graphs for software defect prediction,"""2020""",conference,IEEE,IEEE ICTAI,B
+DeepBalance: Deep-learning and fuzzy oversampling for vulnerability detection,"""2020""",journal,IEEE,IEEE Transactions on Fuzzy Systems,A*
+VulSniper focus your attention to shoot fine grained vulnerabilities,"""2020""",conference,ACM,ACM IJCAI,A*
+Devign Effective vulnerability identification by learning comprehensive program semantics via graph neural networks,"""2020""",conference,ACM,NIPS,A*
+Deep cost sensitive kernel machine for binary software vulnerability detection,"""2020""",conference,Springer,Pacific-Asia Conference on Knowledge Discovery and Data Mining,A
+Automatic Feature Learning for Predicting Vulnerable Software Components,"""2020""",journal,IEEE,TSE,A*
+Machine-Learning-Guided Typestate Analysis for Static Use-After-Free Detection,"""2021""",conference,ACM,ACM ACSAC,USA: National
+DeepBugs a learning approach to name based bug detection,"""2021""",conference,ACM,ACM OOPSLA,A
+DeepWukong: Statically Detecting Software Vulnerabilities Using Deep Graph Neural Network,"""2021""",journal,ACM,ACM TOSEM,A*
+Neural Transfer Learning for Repairing Security Vulnerabilities in C Code,"""2021""",journal,IEEE,TSE,A*
+Security Vulnerability Detection Using Deep Learning Natural Language Processing,"""2021""",conference,IEEE,IEEE INFOCOM WKSHPS: BigSecurity 2021,A*
+SySeVR A framework for using deep learning to detect software vulnerabilities,"""2021""",journal,IEEE,IEEE TDSC,A
+BVDetector: A program slice based binary code vulnerability intelligent detection system,"""2021""",journal,Elsevier,Elsevier IST,A
+Revisiting the VCCFinder approach for the identification of vulnerability-contributing commits,"""2021""",journal,Springer,ESM,A
+Software defect prediction via attention based recurrent neural network,"""2021""",journal,ACM,Hindawi Sicentific Computing,N.A
+Learning semantic features for software defect prediction by code comments embedding,"""2021""",conference,IEEE,IEEE ICDM,A*
+AVDHRAM: Automated Vulnerability Detection based on Hierarchical Representation and Attention Mechanism,"""2021""",conference,IEEE,IEEE ISPA,C
+The random neural network as a bonding model for software vulnerability prediction,"""2021""",symposium,Springer,Springer MASCOTS,N.A
+Automatic feature learning for vulnerability prediction,"""2021""",journal,IEEE,TSE,A*
+VulSPG: Vulnerability detection based on slice property graph representation learning,"""2021""",arxiv,Other,arxiv,N.A
+A tree-based machine learning methodology to automatically classify software vulnerabilities,"""2021""",conference,IEEE,IEEE CSR,N.A
+Combining Graph Neural Networks with Expert Knowledge for Smart Contract Vulnerability Detection,"""2021""",journal,IEEE,IEEE TKDE,A*
+MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks,"""2022""",conference,ACM,ICSE,A*
+Just-in-time defect prediction based on AST change embedding,"""2022""",journal,Springer,KBS,B
+Path-Sensitive Code Embedding via Contrastive Learning for Software Vulnerability Detection,"""2022""",conference,ACM,ISSTA,A
+Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques,"""2021""",conference,IEEE,ISSRE,A
+LineVul: A Transformer-based Line-Level Vulnerability Prediction,"""2022""",conference,IEEE,MSR,A
+Smart Contract Vulnerability Detection Using Graph Neural Networks,"""2020""",conference,IJCAI,IJCAI,A*
+DeepJIT: An End-To-End Deep LearningFramework for Just-In-Time Defect Prediction,"""2019""",conference,IEEE,MSR,A
+LineVD: Statement-level Vulnerability Detection using Graph Neural Networks,"""2022""",conference,IEEE,MSR,A
+Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion,"""2021""",conference,IJCAI,IJCAI,A*
+VELVET: a noVel Ensemble Learning approach to automatically locate VulnErable sTatements,"""2021""",Conference,IEEE,SANER,A
+Cross-project bug type prediction based on transfer learning,"""2019""",Journal,Software Quality Journal,SQJ,Q1
+Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection,"""2024""",Conference,ICSE,ICSE,A*
+VulANalyzeR: Explainable Binary Vulnerability Detection with Multi-task Learning and Attentional Graph Convolution,"""2023""",Journal,Privacy and Security,P&S,Q1
+Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning,"""2023""",Conference,NDSS,NDSS,A*
+Deep Domain Adaptation With Max-Margin Principle for Cross-Project Imbalanced Sotware Vulnerability Detection,"""2024""",Journal,TOSEM,TOSEM,Q1
+VDSimilar: Vulnerability detection based on code similarity of vulnerabilities and patches,"""2021""",Journal,Computer and Security,C&S,Q1
+Vulnerable smart contract function locating based on Multi-Relational Nested Graph Convolutional Network,"""2023""",Journal,Journal of Systems and Software,JSS,Q1
+SlicedLocator: Code vulnerability locator based on sliced dependence graph,"""2023""",Journal,Computer and Security,C&S,Q1
+VulHunter: Hunting Vulnerable Smart Contracts at EVM Bytecode-Level via Multiple Instance Learning,"""2023""",Journal,TSE,TSE,Q1
+Detecting code vulnerabilities by learning from large-scale open source repositories,"""2022""",Journal,Information Security and Applications,ISA,Q1
+HGIVul: Detecting inter-procedural vulnerabilities based on hypergraph convolution,"""2023""",Journal,Information and Software Technology,IST,Q1
+VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection,"""2022""",Conference,IJCNN,IJCNN,B
+VDoTR: Vulnerability detection based on tensor representation of comprehensive code graphs,"""2023""",Journal,Computer and Security,C&S,Q1
+BinAIV: Semantic-enhanced vulnerability detection for Linux x86 binaries,"""2023""",Journal,Computer and Security,C&S,Q1
+Software Vulnerability Detection via Doc2vec with path representations,"""2023""",Journal,Information and Software Technology,IST,Q1
+Enhancing vulnerability detection via AST decomposition and neural sub-tree encoding,"""2024""",Journal,Expert Systems with Applications,ESA,Q1
+Fine-grained Commit-level Vulnerability Type Prediction by CWE Tree Structure,"""2023""",Conference,ICSE,ICSE,A*
+Meta-Path Based Attentional Graph Learning Model for Vulnerability Detection,"""2024""",Journal,TSE,TSE,Q1
+DeKeDVer: A deep learning-based multi-type software vulnerability classification framework using vulnerability description and source code,"""2023""",Journal,Information and Software Technology,IST,Q1
+Self-supervised bug detection and repair,"""2021""",Conference,NeurIPS,NeurIPS,A*
+Multi-Objective Approach for Detecting Vulnerabilities in Ethereum Smart Contracts,"""2022""",Journal,Computer Networks,CN,Q1
+Smart contract vulnerability detection based on semantic graph and residual graph convolutional networks with edge attention,"""2023""",Journal,JSS,JSS,Q1
+A novel extended multimodal AI framework towards vulnerability detection in smart contracts,"""2023""",Journal,Information Sciences,IS,Q1
+Vulnerability detection in Java source code using a quantum convolutional neural network with self-attentive pooling deep sequence and graph-based hybrid feature extraction,"""2024""",Journal,Nature,Nature,Q1
+GraBit: A Sequential Model-Based Framework for Smart Contract Vulnerability Detection,"""2023""",Conference,ISSRE,ISSRE,A
+Vu1SPG: Vulnerability detection based on slice property graph representation learning,"""2021""",Conference,ISSRE,ISSRE,A
+Context-based statement-level vulnerability localization,"""2024""",Journal,Information and Software Technology,IST,Q1
+UltraVCS: Ultra-Fine-Grained Variable-Based Code Slicing for Automated Vulnerability Detection,"""2024""",Journal,"IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY, ",TIFS,Q1
+HyVulDect: A hybrid semantic vulnerability mining system based on graph neural network,"""2022""",Journal,Computer and Security,C&S,Q1
+Effective combining source code and opcode for accurate vulnerability detection of smart contracts in edge AI systems,"""2024""",Journal,Applied Soft Computing,ASC,Q1
+MSGVUL: Multi-semantic integration vulnerability detection based on relational graph convolutional neural networks,"""2024""",Journal,Information and Software Technology,IST,Q1
+LCVD: Loop-oriented code vulnerability detection via graph neural network,"""2023""",Journal,JSS,JSS,Q1
+Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning,"""2023""",Conference,ICSE,ICSE,A*
+DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection,"""2023""",Conference,ICSE,ICSE,A*
+BinVulDet: Detecting vulnerability in binary program via decompiled pseudo code and BiLSTM-attention,"""2023""",Journal,Computers and Security,C&S,Q1
+BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection,"""2021""",Journal,Information and Software Technology,IST,Q1
+BiTCN_DRSN: An effective software vulnerability detection model based on an improved temporal convolutional network,"""2023""",Journal,JSS,JSS,Q1
+Combining graph-based learning with automated data collection for code vulnerability detection,"""2021""",Journal,"IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY, ",TIFS,Q1
+GRACE: Empowering LLM-based software vulnerability detection with graph structure and in-context learning,"""2024""",Journal,JSS,JSS,Q1
+ASSBert: Active and semi-supervised bert for smart contract vulnerability detection,"""2023""",Journal,Journal of Information Security and Applications,ISA,Q1
+Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding,"""2019""",Conference,ICECCS,ICECCS,B
+Function-Level Vulnerability Detection Through Fusing Multi-Modal Knowledge,"""2023""",Conference,ASE,ASE,A*
+A software vulnerability detection method based on deep learning with complex network analysis and subgraph partition,"""2023""",Journal,Information and Software Technology,IST,Q1
+SmartDT: An Effective Vulnerability Detection System of Smart Contracts Based on Deep Learning,"""2023""",Conference,Big Data,ICBD,B
+PSCVFinder: A Prompt-Tuning Based Framework for Smart Contract Vulnerability Detection,"""2023""",Conference,ISSRE,ISSRE,A
+Hybrid semantics-based vulnerability detection incorporating a Temporal Convolutional Network and Self-attention Mechanism,"""2024""",Journal,Information and Software Technology,IST,Q1
+Enhancing Deep Learning-based Vulnerability Detection by Building Behavior Graph Model,"""2023""",Conference,ICSE,ICSE,A*
+Eth2Vec: Learning contract-wide code representations for vulnerability detection on Ethereum smart contracts,"""2022""",Journal,Blockchain: Research and Applications,BRA,Q1
+Fine-grained smart contract vulnerability detection by heterogeneous code feature learning and automated dataset construction,"""2024""",Journal,JSS,JSS,Q1
+"Commit-Level, Neural Vulnerability Detection and Assessment","""2023""",Conference,FSE,FSE,A*
+CSGVD: A deep learning approach combining sequence and graph embedding for source code vulnerability detection,"""2023""",Journal,JSS,JSS,Q1
+Smart contract vulnerability detection based on a semantic code structure and a self-designed neural network,"""2023""",Journal,Computers and Electrical Engineering,CEE,Q1
+Reentrancy Vulnerability Detection Based on Graph Convolutional Networks and Expert Patterns,"""2024""",Journal,Computers & Security,C&S,Q1
+DA-GNN: A smart contract vulnerability detection method based on Dual Attention Graph Neural Network,"""2024""",Journal,Computer Networks,CN,Q1
+Smart Contract Vulnerability Detection Based on Automated Feature Extraction and Feature Interaction,"""2023""",Journal,IEEE Transactions on Knowledge and Data Engineering,TKDE,Q1
+SVScanner: Detecting smart contract vulnerabilities via deep semantic extraction,"""2023""",Journal,Journal of Information Security and Applications,ISA,Q1
+Smart contracts vulnerability detection model based on adversarial multi-task learning,"""2023""",Journal,Journal of Information Security and Applications,ISA,Q1
+A multitype software buffer overflow vulnerability prediction method based on a software graph structure and a self-attentive graph neural network,"""2023""",Journal,Information and Software Technology,IST,Q1
+Graph Confident Learning for Software Vulnerability Detection,"""2024""",Journal,Engineering Applications of Artificial Intelligence,EAAI,Q1
+Code-centric learning-based just-in-time vulnerability detection,"""2024""",Journal,JSS,JSS,Q1
+Cross-domain vulnerability detection using graph embedding and domain adaptation,"""2023""",Journal,Computers and Security,C&S,Q1
+Detect software vulnerabilities with weight biases via graph neural networks,"""2024""",Journal,Expert Systems with Applications,ESA,Q1
+MANDO-HGT: Heterogeneous Graph Transformers for Smart Contract Vulnerability Detection,"""2023""",Conference,MSR,MSR,A
+CPVD: Cross Project Vulnerability Detection Based on Graph Attention Network and Domain Adaptation,"""2023""",Journal,TSE,TSE,Q1
+Proximal Instance Aggregator networks for explainable security vulnerability detection,"""2022""",Journal,Future Generation Computer Systems,FGCS,Q1
+SEVulDet: A Semantics-Enhanced Learnable Vulnerability Detector,"""2022""",Conference,IEEE/IFIP International Conference on Dependable Systems and Networks,CDSN,A
+Vulnerability detection based on federated learning,"""2024""",Journal,Information and Software Technology,ISR,Q1
+Optimizing smart contract vulnerability detection via multi-modality code and entropy embedding,"""2023""",Journal,JSS,JSS,Q1
+VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python,"""2022""",Journal,Information and Software Technology,IST,Q1
+CPGBERT: An Effective Model for Defect Detection by Learning Program Semantics via Code Property Graph,"""2022""",Conference,TrustCom,TrustCom,B
+A multi-type vulnerability detection framework with parallel perspective fusion and hierarchical feature enhancement,"""2024""",Journal,Computers and Security,C&S,Q1
+VDTriplet: Vulnerability detection with graph semantics using triplet model,"""2024""",Journal,Computers and Security,C&S,Q1
+GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis,"""2024""",Conference,ICSE,ICSE,A*
+Combine sliced joint graph with graph neural networks for smart contract vulnerability detection,"""2023""",Journal,JSS,JSS,Q1
+VulCNN: An Image-inspired Scalable Vulnerability Detection System,"""2022""",Conference,ICSE,ICSE,A*
+Improving bug detection via context-based code representation learning and attention-based neural networks,"""2019""",Journal,ACM on Programming Languages,PL,Q1
+SedSVD: Statement-level software vulnerability detection based on Relational Graph Convolutional Network with subgraph embedding,"""2023""",Journal,Information and Software Technology,IST,Q1
+A vulnerability severity prediction method based on bimodal data and multi-task learning,"""2024""",Journal,JSS,JSS,Q1
+Vulnerability Detection Based on Enhanced Graph Representation Learning,"""2024""",Journal,IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY,TIFS,Q1
+Vulnerability detection through cross-modal feature enhancement and fusion,"""2023""",Journal,Computers and Security,C&S,Q1

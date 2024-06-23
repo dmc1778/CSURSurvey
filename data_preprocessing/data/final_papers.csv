@@ -1,0 +1,139 @@
+Title
+A machine learning approach for vulnerability curation
+Automated identification of security issues from commit messages and reports
+Automatic Feature Learning for Predicting Vulnerable Software Components
+Automatically identifying code features for software defect prediction using AST N grams
+Automatically learning semantic features for defect prediction
+AutoVAS An automated vulnerability analysis system with a deep learning approach
+BVDetector: A program slice based binary code vulnerability intelligent detection system
+CD-VulD: Cross-Domain Vulnerability Discovery based on Deep Domain Adaptation
+Chucky: Exposing Missing Checks in Source Code for Vulnerability Discovery
+Combining graph based learning with automated data collection for code vulnerability detection
+Combining Graph Neural Networks with Expert Knowledge for Smart Contract Vulnerability Detection
+Convolutional neural networks over control flow graphs for software defect prediction
+Deep cost sensitive kernel machine for binary software vulnerability detection
+DeepBalance: Deep-learning and fuzzy oversampling for vulnerability detection
+DeepBugs a learning approach to name based bug detection
+DeepCVA: Automated Commit-level Vulnerability Assessment with Deep Multi-task Learning
+DeepJIT: An End-To-End Deep LearningFramework for Just-In-Time Defect Prediction
+DeepWukong: Statically Detecting Software Vulnerabilities Using Deep Graph Neural Network
+Devign Effective vulnerability identification by learning comprehensive program semantics via graph neural networks
+Discovering software vulnerabilities using data flow analysis and machine learning
+End-to-end prediction of buffer overruns from raw source code via neural memory networks
+Fine grained just in time defect prediction
+GCN2defect Graph Convolutional Networks for SMOTETomek-based Software Defect Prediction
+HAN BSVD A hierarchical attention network for binary software vulnerability detection
+Hoppity Learning graph transformations to detect and fix bugs in programs
+Hunting Vulnerable Smart Contracts via Graph Embedding Based Bytecode Matching
+Improving bug detection via context based code representation learning and attention based neural networks
+Interpreting deep learning based vulnerability detector predictions based on heuristic searching
+LineVD: Statement-level Vulnerability Detection using Graph Neural Networks
+LineVul: A Transformer-based Line-Level Vulnerability Prediction
+Maximal divergence sequential autoencoder for binary software vulnerability detection
+muVulDeePecker A deep learning based system for multiclass vulnerability detection
+MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks
+Neural software vulnerability analysis using rich intermediate graph representations of programs
+Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques
+Predicting Vulnerable Software Components via Text Mining
+Smart Contract Vulnerability Detection Using Graph Neural Networks
+Software Defect Prediction Via Convolutional Neural Networks
+Software Vulnerability Discovery via Learning Multi-Domain Knowledge Bases
+SySeVR A framework for using deep learning to detect software vulnerabilities
+The random neural network as a bonding model for software vulnerability prediction
+VCCFinder: Finding Potential Vulnerabilities in Open-Source Projects to Assist Code Audits
+Vuldeelocator a deep learning based fine grained vulnerability detector
+Vuldeepecker A deep learning based system for vulnerability detection
+Vuldigger: a just-in-time and cost-aware tool for digging vulnerability-contributing changes
+vulnerability detection with fine grained interpretations
+Vulnerability Extrapolation: Assisted Discovery of Vulnerabilities using Machine Learning
+VulSniper focus your attention to shoot fine grained vulnerabilities
+VulSPG: Vulnerability detection based on slice property graph representation learning
+Just-in-time defect prediction based on AST change embedding
+Path-Sensitive Code Embedding via Contrastive Learning for Software Vulnerability Detection
+Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion
+VELVET: a noVel Ensemble Learning approach to automatically locate VulnErable sTatements
+Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach
+The Best of Both Worlds: Integrating Semantic Features with Expert Features for Defect Prediction and Localization
+Source Code Vulnerability Detection Using Vulnerability Dependency Representation Graph
+mVulPreter: A Multi-granularity Vulnerability Detection System with Interpretations
+MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection of Smart Contract Vulnerabilities
+MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings
+Cross-project bug type prediction based on transfer learning
+Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection
+VulANalyzeR: Explainable Binary Vulnerability Detection with Multi-task Learning and Attentional Graph Convolution
+Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning
+Deep Domain Adaptation With Max-Margin Principle for Cross-Project Imbalanced Sotware Vulnerability Detection
+VDSimilar: Vulnerability detection based on code similarity of vulnerabilities and patches
+Vulnerable smart contract function locating based on Multi-Relational Nested Graph Convolutional Network
+SlicedLocator: Code vulnerability locator based on sliced dependence graph
+VulHunter: Hunting Vulnerable Smart Contracts at EVM Bytecode-Level via Multiple Instance Learning
+Detecting code vulnerabilities by learning from large-scale open source repositories
+HGIVul: Detecting inter-procedural vulnerabilities based on hypergraph convolution
+VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection
+VDoTR: Vulnerability detection based on tensor representation of comprehensive code graphs
+BinAIV: Semantic-enhanced vulnerability detection for Linux x86 binaries
+Software Vulnerability Detection via Doc2vec with path representations
+Enhancing vulnerability detection via AST decomposition and neural sub-tree encoding
+Fine-grained Commit-level Vulnerability Type Prediction by CWE Tree Structure
+Meta-Path Based Attentional Graph Learning Model for Vulnerability Detection
+DeKeDVer: A deep learning-based multi-type software vulnerability classification framework using vulnerability description and source code
+Self-supervised bug detection and repair
+Multi-Objective Approach for Detecting Vulnerabilities in Ethereum Smart Contracts
+Smart contract vulnerability detection based on semantic graph and residual graph convolutional networks with edge attention
+A novel extended multimodal AI framework towards vulnerability detection in smart contracts
+Vulnerability detection in Java source code using a quantum convolutional neural network with self-attentive pooling deep sequence and graph-based hybrid feature extraction
+GraBit: A Sequential Model-Based Framework for Smart Contract Vulnerability Detection
+Vu1SPG: Vulnerability detection based on slice property graph representation learning
+Context-based statement-level vulnerability localization
+UltraVCS: Ultra-Fine-Grained Variable-Based Code Slicing for Automated Vulnerability Detection
+HyVulDect: A hybrid semantic vulnerability mining system based on graph neural network
+Effective combining source code and opcode for accurate vulnerability detection of smart contracts in edge AI systems
+MSGVUL: Multi-semantic integration vulnerability detection based on relational graph convolutional neural networks
+LCVD: Loop-oriented code vulnerability detection via graph neural network
+Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning
+DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection
+BinVulDet: Detecting vulnerability in binary program via decompiled pseudo code and BiLSTM-attention
+BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection
+BiTCN_DRSN: An effective software vulnerability detection model based on an improved temporal convolutional network
+GRACE: Empowering LLM-based software vulnerability detection with graph structure and in-context learning
+ASSBert: Active and semi-supervised bert for smart contract vulnerability detection
+Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding
+Function-Level Vulnerability Detection Through Fusing Multi-Modal Knowledge
+A software vulnerability detection method based on deep learning with complex network analysis and subgraph partition
+SmartDT: An Effective Vulnerability Detection System of Smart Contracts Based on Deep Learning
+PSCVFinder: A Prompt-Tuning Based Framework for Smart Contract Vulnerability Detection
+Hybrid semantics-based vulnerability detection incorporating a Temporal Convolutional Network and Self-attention Mechanism
+Enhancing Deep Learning-based Vulnerability Detection by Building Behavior Graph Model
+Eth2Vec: Learning contract-wide code representations for vulnerability detection on Ethereum smart contracts
+Fine-grained smart contract vulnerability detection by heterogeneous code feature learning and automated dataset construction
+Commit-Level  Neural Vulnerability Detection and Assessment
+CSGVD: A deep learning approach combining sequence and graph embedding for source code vulnerability detection
+Smart contract vulnerability detection based on a semantic code structure and a self-designed neural network
+Reentrancy Vulnerability Detection Based on Graph Convolutional Networks and Expert Patterns
+DA-GNN: A smart contract vulnerability detection method based on Dual Attention Graph Neural Network
+Smart Contract Vulnerability Detection Based on Automated Feature Extraction and Feature Interaction
+SVScanner: Detecting smart contract vulnerabilities via deep semantic extraction
+Smart contracts vulnerability detection model based on adversarial multi-task learning
+A multitype software buffer overflow vulnerability prediction method based on a software graph structure and a self-attentive graph neural network
+Graph Confident Learning for Software Vulnerability Detection
+Code-centric learning-based just-in-time vulnerability detection
+Cross-domain vulnerability detection using graph embedding and domain adaptation
+Detect software vulnerabilities with weight biases via graph neural networks
+MANDO-HGT: Heterogeneous Graph Transformers for Smart Contract Vulnerability Detection
+CPVD: Cross Project Vulnerability Detection Based on Graph Attention Network and Domain Adaptation
+Proximal Instance Aggregator networks for explainable security vulnerability detection
+SEVulDet: A Semantics-Enhanced Learnable Vulnerability Detector
+Vulnerability detection based on federated learning
+Optimizing smart contract vulnerability detection via multi-modality code and entropy embedding
+VUDENC: Vulnerability Detection with Deep Learning on a Natural Codebase for Python
+CPGBERT: An Effective Model for Defect Detection by Learning Program Semantics via Code Property Graph
+A multi-type vulnerability detection framework with parallel perspective fusion and hierarchical feature enhancement
+VDTriplet: Vulnerability detection with graph semantics using triplet model
+GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis
+Combine sliced joint graph with graph neural networks for smart contract vulnerability detection
+VulCNN: An Image-inspired Scalable Vulnerability Detection System
+Improving bug detection via context-based code representation learning and attention-based neural networks
+SedSVD: Statement-level software vulnerability detection based on Relational Graph Convolutional Network with subgraph embedding
+A vulnerability severity prediction method based on bimodal data and multi-task learning
+Vulnerability Detection Based on Enhanced Graph Representation Learning
+Vulnerability detection through cross-modal feature enhancement and fusion
